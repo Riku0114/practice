@@ -64,6 +64,9 @@ footer{
     width: 100%;
     display: block;
   }
+  .box:first-child {
+    margin-left: auto;
+}
   .box{
     width: 90%;
     margin-top: 20px;
